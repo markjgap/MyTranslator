@@ -1,0 +1,10 @@
+hola	hello	src/images/hola.jpg
+adios	bye	src/images/adios.jpg
+bien	good	src/images/bien.jpg
+malo	bad	src/images/malo.jpg
+uno	one	src/images/uno.jpg
+el padre	father	src/images/padre.jpg
+la madre	mother	src/images/madre.jpg
+sol	sun	src/images/sol.jpg
+sombrero	hat	src/images/sombrero.jpg
+casa	house	src/images/casa.jpg

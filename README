@@ -1,0 +1,43 @@
+Welcome to Translator! 
+
+What is it?
+-----------
+Translator is a program written to help you study and learn Spanish. 
+
+The original Translator or Version 1 is a command line prompt program. It is written in a format where the user can input their own Spanish and English words, or the user can use the words hardcoded into the program. The user will be shown a word in Spanish, and then prompted to type in the corresponding word in English.
+
+Translator Version 2 is an upgraded GUI version with the same goals in mind. With a more user friendly experience and new features, Translator Version 2 is sure to give the user a more memorable experience.
+
+
+Who wrote this?
+---------------
+This project is written in the Scala programming language and the authors are Kyle Jensen and Mark Gapasin.
+
+
+How can I start using this study tool?
+--------------------------------------
+Using this tool is pretty darn easy to use. Just make sure you have the Scala programming language installed so you can run the source code. 
+
+On Eclipse IDE (Version 1 and 2):
+- Scala must be installed on Eclipse to run Scala projects. If not yet set up go to: http://scala-ide.org/docs/user/gettingstarted.html
+
+- Download all of the files in the src folder and the Spanglish.text file. To run the version 1 you should run the Translator.scala file. Translator Version 2 can be started by running Main.scala.
+
+On Linux/Unix Terminal (Version 1 only):
+- Verify if you have scala installed by typing the command at command prompt:
+
+  $ scala -version
+  
+  then enter return and you should see something similar to:
+  
+  javac 1.7.0_51
+  MacBook-Pro:bin MacBookPro$ scala -version
+  Scala code runner version 2.10.4 -- Copyright 2002-2013, LAMP/EPFL
+  
+- If scala is not installed then install go to: http://www.scala-lang.org/download/ . 
+If scala is installed, navigate into folder that holds Translator.scala file and type the command at command prompt:
+ 
+  $ scala Translator.scala
+  
+  then enter return and enjoy!
+  
