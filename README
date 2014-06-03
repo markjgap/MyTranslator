@@ -1,17 +1,12 @@
-Welcome to Translator! 
+Welcome to MyTranslator Version 2.0! 
 
 What is it?
 -----------
-Translator is a program written to help you study and learn Spanish. 
+MyTranslator is a program written to help you study and learn Spanish. 
 
-The original Translator or Version 1 is a command line prompt program. It is written in a format where the user can input their own Spanish and English words, or the user can use the words hardcoded into the program. The user will be shown a word in Spanish, and then prompted to type in the corresponding word in English.
+The original MyTranslator or Version 1 is a command line prompt program. It is written in a format where the user can input their own Spanish and English words, or the user can use the words hardcoded into the program. The user will be shown a word in Spanish, and then prompted to type in the corresponding word in English.
 
-Translator Version 2 is an upgraded GUI version with the same goals in mind. With a more user friendly experience and new features, Translator Version 2 is sure to give the user a more memorable experience.
-
-
-Who wrote this?
----------------
-This project is written in the Scala programming language and the authors are Kyle Jensen and Mark Gapasin.
+MyTranslator Version 2 is an upgraded GUI version with the same goals in mind. With a more user friendly experience and new features, MyTranslator Version 2 is sure to give the user a more memorable experience.
 
 
 How can I start using this study tool?
