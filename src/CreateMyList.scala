@@ -1,4 +1,4 @@
-// Authors: Mark Gapasin
+// Author: Mark Gapasin
 // Creates a list from user input.
 
 import scala.swing._
