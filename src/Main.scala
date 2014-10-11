@@ -1,6 +1,5 @@
-/*Authors: Kyle Jensen and Mark Gapasin
- * 
- */
+// Authors: Mark Gapasin
+// Main GUI frame of MyTranslotor which helps user learn a foreign language
 
 import swing._
 import javax.swing.ImageIcon // for importing image
