@@ -1,4 +1,4 @@
-// Authors: Mark Gapasin
+// Author: Mark Gapasin
 // Main GUI frame of MyTranslotor which helps user learn a foreign language
 
 import swing._
