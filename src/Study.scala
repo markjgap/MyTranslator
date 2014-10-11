@@ -1,6 +1,5 @@
-/*Authors: Kyle Jensen and Mark Gapasin
- * 
- */
+// Author: Mark Gapasin
+// Section helps users study words
 
 import scala.swing._
 import BorderPanel.Position._ // for BorderPanel location
