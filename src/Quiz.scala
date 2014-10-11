@@ -1,6 +1,5 @@
-/*Authors: Kyle Jensen and Mark Gapasin
- * 
- */
+// Authors: Mark Gapasin
+// Quiz section test users knowledge
 
 import swing._
 import swing.event._
