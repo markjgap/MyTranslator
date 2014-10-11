@@ -1,4 +1,4 @@
-// Authors: Mark Gapasin
+// Author: Mark Gapasin
 // Quiz section test users knowledge
 
 import swing._
