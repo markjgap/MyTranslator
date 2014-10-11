@@ -1,6 +1,6 @@
-/*Authors: Kyle Jensen and Mark Gapasin
- * 
- */
+// Author: Mark Gapasin
+// MyTranslator ver.1
+// A command line version of MyTranslator
 
 object Translator {
 
@@ -9,8 +9,8 @@ object Translator {
      // Spanish to English database
      // Translator's stock study list
 	 val db = Map(
-	          // first set
-	          ("hola" -> "hello"),
+	      // first set
+	      ("hola" -> "hello"),
               ("adios" -> "bye"),
               ("gracias" -> "thank you"),
               ("de nada" -> "welcome"),
