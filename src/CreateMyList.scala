@@ -1,6 +1,5 @@
-/*Authors: Kyle Jensen and Mark Gapasin
- * 
- */
+// Authors: Mark Gapasin
+// Creates a list from user input.
 
 import scala.swing._
 import BorderPanel.Position._
